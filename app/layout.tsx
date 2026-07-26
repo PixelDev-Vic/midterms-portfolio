@@ -18,7 +18,7 @@ const spaceMono = Space_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "JinzuuVisuals — Monochrome Visual Studio & Art Direction",
+  title: "JinzuuVisuals — Visual Studio & Art Direction",
   description:
     "JinzuuVisuals is a typography-driven visual design studio specializing in digital art, brand identity, motion graphics, and editorial visual storytelling.",
   authors: [{ name: "JinzuuVisuals" }],
